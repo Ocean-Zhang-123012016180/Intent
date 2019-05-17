@@ -1,7 +1,14 @@
-# Inten
+# Intent
 结果截图
+
+
 ![Image text](https://github.com/Ocean-Zhang-123012016180/Intent/blob/master/image/1.png)
+
+
 ![Image text](https://github.com/Ocean-Zhang-123012016180/Intent/blob/master/image/2.png)
+
+
+
 
 
 主要代码：
